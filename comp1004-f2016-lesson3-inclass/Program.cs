@@ -16,7 +16,7 @@ namespace comp1004_f2016_lesson3_inclass
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SplashForm());
         }
     }
 }
